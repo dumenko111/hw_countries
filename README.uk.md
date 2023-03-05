@@ -1,9 +1,3 @@
-https://github.com/dumenko111/hw_countries.git
-
-
-
-
-
 # Parcel template
 
 Этот проект был создан при помощи Parcel. Для знакомства и настройки
